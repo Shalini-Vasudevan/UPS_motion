@@ -1,0 +1,10 @@
+# Ignore YOLOv8 models
+yolov8l-pose.pt
+yolov8n.pt
+
+# Ignore deep learning checkpoints
+checkpoint/motionagformer-b-h36m.pth.tr
+
+# Ignore Python cache directories
+__pycache__/
+

@@ -1,0 +1,14 @@
+torch 
+torchvision 
+transformers 
+requests 
+pillow 
+numpy
+opencv-python 
+tqdm
+accelerate
+ultralytics
+numba
+scikit-image
+filterpy
+timm
